@@ -41,7 +41,8 @@ public class SignInActivity extends BaseActivity implements TextWatcher {
     private static final String EXTRA_ACCOUNT_LOCAL_ID = "extra.account.LocalId";
     private static final String TAG = "SignInActivity:";
 
-    private static final String LEANOTE_HOST = "https://leanote.com";
+//    private static final String LEANOTE_HOST = "https://leanote.com";
+    private static final String LEANOTE_HOST = "http://note.e-hometown.com:801";
     private static final String FIND_PASSWORD = "/findPassword";
     private static final String EXT_IS_CUSTOM_HOST = "ext_is_custom_host";
     private static final String EXT_HOST = "ext_host";
